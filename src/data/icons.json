@@ -1,0 +1,1446 @@
+{
+ "generatedAt": "2026-10-29T03:20:17.802Z",
+ "note": "Game icons are property of Ubisoft Entertainment. Used in an unofficial, non-commercial fan app; see README for terms.",
+ "perks": {
+  "Galestorm": {
+   "file": "icons/game/perks/galestorm.webp",
+   "source": "https://forhonorinfohub.com/perks/Galestorm.png"
+  },
+  "Devourer": {
+   "file": "icons/game/perks/devourer.webp",
+   "source": "https://forhonorinfohub.com/perks/Devourer.png"
+  },
+  "Early Reaper": {
+   "file": "icons/game/perks/early-reaper.webp",
+   "source": "https://forhonorinfohub.com/perks/EarlyReaper.png"
+  },
+  "Endurance": {
+   "file": "icons/game/perks/endurance.webp",
+   "source": "https://forhonorinfohub.com/perks/Endurance.png"
+  },
+  "Survival Instinct": {
+   "file": "icons/game/perks/survival-instinct.webp",
+   "source": "https://forhonorinfohub.com/perks/SurvivalInstinct.png"
+  },
+  "Crush Them": {
+   "file": "icons/game/perks/crush-them.webp",
+   "source": "https://forhonorinfohub.com/perks/CrushThem.png"
+  },
+  "Head Hunter": {
+   "file": "icons/game/perks/head-hunter.webp",
+   "source": "https://forhonorinfohub.com/perks/HeadHunter.png"
+  },
+  "Aegis": {
+   "file": "icons/game/perks/aegis.webp",
+   "source": "https://forhonorinfohub.com/perks/Aegis.png"
+  },
+  "Shields Up": {
+   "file": "icons/game/perks/shields-up.webp",
+   "source": "https://forhonorinfohub.com/perks/ShieldsUp.png"
+  },
+  "Bastion": {
+   "file": "icons/game/perks/bastion.webp",
+   "source": "https://forhonorinfohub.com/perks/Bastion.png"
+  },
+  "Vengeful Barrier": {
+   "file": "icons/game/perks/vengeful-barrier.webp",
+   "source": "https://forhonorinfohub.com/perks/TheMostHatedPerkInTheGame.png"
+  },
+  "Last Stand": {
+   "file": "icons/game/perks/last-stand.webp",
+   "source": "https://forhonorinfohub.com/perks/LaCreatura.png"
+  },
+  "Fresh Focus": {
+   "file": "icons/game/perks/fresh-focus.webp",
+   "source": "https://forhonorinfohub.com/perks/FreshFocus.png"
+  },
+  "Bulk Up": {
+   "file": "icons/game/perks/bulk-up.webp",
+   "source": "https://forhonorinfohub.com/perks/BulkUp.png"
+  },
+  "Radiant Rebound": {
+   "file": "icons/game/perks/radiant-rebound.webp",
+   "source": "https://forhonorinfohub.com/perks/RadiantRebound.png"
+  },
+  "Remedy": {
+   "file": "icons/game/perks/remedy.webp",
+   "source": "https://forhonorinfohub.com/perks/Remedy.png"
+  },
+  "Feline Agility": {
+   "file": "icons/game/perks/feline-agility.webp",
+   "source": "https://forhonorinfohub.com/perks/FelineAgility.png"
+  },
+  "Supersonic": {
+   "file": "icons/game/perks/supersonic.webp",
+   "source": "https://forhonorinfohub.com/perks/Supersonic.png"
+  },
+  "Clever Tactics": {
+   "file": "icons/game/perks/clever-tactics.webp",
+   "source": "https://forhonorinfohub.com/perks/CleverTactics.png"
+  },
+  "Rising Dawn": {
+   "file": "icons/game/perks/rising-dawn.webp",
+   "source": "https://forhonorinfohub.com/perks/RisingDawn.png"
+  },
+  "Rapid Refresh": {
+   "file": "icons/game/perks/rapid-refresh.webp",
+   "source": "https://forhonorinfohub.com/perks/RapidRefresh.png"
+  }
+ },
+ "feats": {
+  "DeathToll": {
+   "file": "icons/game/feats/deathtoll.webp",
+   "source": "https://forhonorinfohub.com/feats/DeathToll.png"
+  },
+  "Conqueror": {
+   "file": "icons/game/feats/conqueror.webp",
+   "source": "https://forhonorinfohub.com/feats/Conqueror.png"
+  },
+  "ComeatMe": {
+   "file": "icons/game/feats/comeatme.webp",
+   "source": "https://forhonorinfohub.com/feats/ComeatMe.png"
+  },
+  "Enfeeble": {
+   "file": "icons/game/feats/enfeeble.webp",
+   "source": "https://forhonorinfohub.com/feats/Enfeeble.png"
+  },
+  "Inspire": {
+   "file": "icons/game/feats/inspire.webp",
+   "source": "https://forhonorinfohub.com/feats/Inspire.png"
+  },
+  "ThrillingComeback": {
+   "file": "icons/game/feats/thrillingcomeback.webp",
+   "source": "https://forhonorinfohub.com/feats/ThrillingComeback.png"
+  },
+  "TotalRecovery": {
+   "file": "icons/game/feats/totalrecovery.webp",
+   "source": "https://forhonorinfohub.com/feats/TotalRecovery.png"
+  },
+  "SecondWind": {
+   "file": "icons/game/feats/secondwind.webp",
+   "source": "https://forhonorinfohub.com/feats/SecondWind.png"
+  },
+  "PugnoMortis": {
+   "file": "icons/game/feats/pugnomortis.webp",
+   "source": "https://forhonorinfohub.com/feats/PugnoMortis.png"
+  },
+  "Trebuchet": {
+   "file": "icons/game/feats/trebuchet.webp",
+   "source": "https://forhonorinfohub.com/feats/Trebuchet.png"
+  },
+  "StalwartBanner": {
+   "file": "icons/game/feats/stalwartbanner.webp",
+   "source": "https://forhonorinfohub.com/feats/StalwartBanner.png"
+  },
+  "MoraleBooster": {
+   "file": "icons/game/feats/moralebooster.webp",
+   "source": "https://forhonorinfohub.com/feats/MoraleBooster.png"
+  },
+  "SpeedRevive": {
+   "file": "icons/game/feats/speedrevive.webp",
+   "source": "https://forhonorinfohub.com/feats/SpeedRevive.png"
+  },
+  "BodyCount": {
+   "file": "icons/game/feats/bodycount.webp",
+   "source": "https://forhonorinfohub.com/feats/BodyCount.png"
+  },
+  "Juggernaut": {
+   "file": "icons/game/feats/juggernaut.webp",
+   "source": "https://forhonorinfohub.com/feats/Juggernaut.png"
+  },
+  "ShieldBasher": {
+   "file": "icons/game/feats/shieldbasher.webp",
+   "source": "https://forhonorinfohub.com/feats/ShieldBasher.png"
+  },
+  "FiatLux": {
+   "file": "icons/game/feats/fiatlux.webp",
+   "source": "https://forhonorinfohub.com/feats/FiatLux.png"
+  },
+  "PunchThrough": {
+   "file": "icons/game/feats/punchthrough.webp",
+   "source": "https://forhonorinfohub.com/feats/PunchThrough.png"
+  },
+  "HealonBlock": {
+   "file": "icons/game/feats/healonblock.webp",
+   "source": "https://forhonorinfohub.com/feats/HealonBlock.png"
+  },
+  "Uninterruptible": {
+   "file": "icons/game/feats/uninterruptible.webp",
+   "source": "https://forhonorinfohub.com/feats/Uninterruptible.png"
+  },
+  "Regenerate": {
+   "file": "icons/game/feats/regenerate.webp",
+   "source": "https://forhonorinfohub.com/feats/Regenerate.png"
+  },
+  "Catapult": {
+   "file": "icons/game/feats/catapult.webp",
+   "source": "https://forhonorinfohub.com/feats/Catapult.png"
+  },
+  "CrossbowWound": {
+   "file": "icons/game/feats/crossbowwound.webp",
+   "source": "https://forhonorinfohub.com/feats/CrossbowWound.png"
+  },
+  "Stealth": {
+   "file": "icons/game/feats/stealth.webp",
+   "source": "https://forhonorinfohub.com/feats/Stealth.png"
+  },
+  "BountyHunter": {
+   "file": "icons/game/feats/bountyhunter.webp",
+   "source": "https://forhonorinfohub.com/feats/BountyHunter.png"
+  },
+  "BleedArmor": {
+   "file": "icons/game/feats/bleedarmor.webp",
+   "source": "https://forhonorinfohub.com/feats/BleedArmor.png"
+  },
+  "ExecutionersRespite": {
+   "file": "icons/game/feats/executionersrespite.webp",
+   "source": "https://forhonorinfohub.com/feats/ExecutionersRespite.png"
+  },
+  "SanguineSerrations": {
+   "file": "icons/game/feats/sanguineserrations.webp",
+   "source": "https://forhonorinfohub.com/feats/SanguineSerrations.png"
+  },
+  "InducedFear": {
+   "file": "icons/game/feats/inducedfear.webp",
+   "source": "https://forhonorinfohub.com/feats/InducedFear.png"
+  },
+  "LastLaugh": {
+   "file": "icons/game/feats/lastlaugh.webp",
+   "source": "https://forhonorinfohub.com/feats/LastLaugh.png"
+  },
+  "HarshJudgement": {
+   "file": "icons/game/feats/harshjudgement.webp",
+   "source": "https://forhonorinfohub.com/feats/HarshJudgement.png"
+  },
+  "RighteousDeflection": {
+   "file": "icons/game/feats/righteousdeflection.webp",
+   "source": "https://forhonorinfohub.com/feats/RighteousDeflection.png"
+  },
+  "ProtectedRevive": {
+   "file": "icons/game/feats/protectedrevive.webp",
+   "source": "https://forhonorinfohub.com/feats/ProtectedRevive.png"
+  },
+  "IgneusImber": {
+   "file": "icons/game/feats/igneusimber.webp",
+   "source": "https://forhonorinfohub.com/feats/IgneusImber.png"
+  },
+  "AmplifiedRoar": {
+   "file": "icons/game/feats/amplifiedroar.webp",
+   "source": "https://forhonorinfohub.com/feats/AmplifiedRoar.png"
+  },
+  "EaglesWindfall": {
+   "file": "icons/game/feats/eagleswindfall.webp",
+   "source": "https://forhonorinfohub.com/feats/EaglesWindfall.png"
+  },
+  "VaingloriousPugio": {
+   "file": "icons/game/feats/vaingloriouspugio.webp",
+   "source": "https://forhonorinfohub.com/feats/VaingloriousPugio.png"
+  },
+  "SharpenBlade": {
+   "file": "icons/game/feats/sharpenblade.webp",
+   "source": "https://forhonorinfohub.com/feats/SharpenBlade.png"
+  },
+  "RefinedPhalanx": {
+   "file": "icons/game/feats/refinedphalanx.webp",
+   "source": "https://forhonorinfohub.com/feats/RefinedPhalanx.png"
+  },
+  "IronLungs": {
+   "file": "icons/game/feats/ironlungs.webp",
+   "source": "https://forhonorinfohub.com/feats/IronLungs.png"
+  },
+  "Deadly": {
+   "file": "icons/game/feats/deadly.webp",
+   "source": "https://forhonorinfohub.com/feats/Deadly.png"
+  },
+  "Haymaker": {
+   "file": "icons/game/feats/haymaker.webp",
+   "source": "https://forhonorinfohub.com/feats/Haymaker.png"
+  },
+  "NeptunesWrath": {
+   "file": "icons/game/feats/neptuneswrath.webp",
+   "source": "https://forhonorinfohub.com/feats/NeptunesWrath.png"
+  },
+  "Boleadoras": {
+   "file": "icons/game/feats/boleadoras.webp",
+   "source": "https://forhonorinfohub.com/feats/Boleadoras.png"
+  },
+  "FearItself": {
+   "file": "icons/game/feats/fearitself.webp",
+   "source": "https://forhonorinfohub.com/feats/FearItself.png"
+  },
+  "RoaroftheCrowd": {
+   "file": "icons/game/feats/roarofthecrowd.webp",
+   "source": "https://forhonorinfohub.com/feats/RoaroftheCrowd.png"
+  },
+  "SinisterShield": {
+   "file": "icons/game/feats/sinistershield.webp",
+   "source": "https://forhonorinfohub.com/feats/SinisterShield.png"
+  },
+  "HealingWard": {
+   "file": "icons/game/feats/healingward.webp",
+   "source": "https://forhonorinfohub.com/feats/HealingWard.png"
+  },
+  "DoomBanner": {
+   "file": "icons/game/feats/doombanner.webp",
+   "source": "https://forhonorinfohub.com/feats/DoomBanner.png"
+  },
+  "Oathbreaker": {
+   "file": "icons/game/feats/oathbreaker.webp",
+   "source": "https://forhonorinfohub.com/feats/Oathbreaker.png"
+  },
+  "ToughAsNails": {
+   "file": "icons/game/feats/toughasnails.webp",
+   "source": "https://forhonorinfohub.com/feats/ToughAsNails.png"
+  },
+  "UmbralShelter": {
+   "file": "icons/game/feats/umbralshelter.webp",
+   "source": "https://forhonorinfohub.com/feats/UmbralShelter.png"
+  },
+  "CorruptionBlade": {
+   "file": "icons/game/feats/corruptionblade.webp",
+   "source": "https://forhonorinfohub.com/feats/CorruptionBlade.png"
+  },
+  "Rush": {
+   "file": "icons/game/feats/rush.webp",
+   "source": "https://forhonorinfohub.com/feats/Rush.png"
+  },
+  "ElixirofCorruption": {
+   "file": "icons/game/feats/elixirofcorruption.webp",
+   "source": "https://forhonorinfohub.com/feats/ElixirofCorruption.png"
+  },
+  "ArrowStrike": {
+   "file": "icons/game/feats/arrowstrike.webp",
+   "source": "https://forhonorinfohub.com/feats/ArrowStrike.png"
+  },
+  "FleshWound": {
+   "file": "icons/game/feats/fleshwound.webp",
+   "source": "https://forhonorinfohub.com/feats/FleshWound.png"
+  },
+  "PowerofCorruption": {
+   "file": "icons/game/feats/powerofcorruption.webp",
+   "source": "https://forhonorinfohub.com/feats/PowerofCorruption.png"
+  },
+  "CorruptionBlast": {
+   "file": "icons/game/feats/corruptionblast.webp",
+   "source": "https://forhonorinfohub.com/feats/CorruptionBlast.png"
+  },
+  "ArrowStorm": {
+   "file": "icons/game/feats/arrowstorm.webp",
+   "source": "https://forhonorinfohub.com/feats/ArrowStorm.png"
+  },
+  "AutoRevive": {
+   "file": "icons/game/feats/autorevive.webp",
+   "source": "https://forhonorinfohub.com/feats/AutoRevive.png"
+  },
+  "SternStare": {
+   "file": "icons/game/feats/sternstare.webp",
+   "source": "https://forhonorinfohub.com/feats/SternStare.png"
+  },
+  "FastRecovery": {
+   "file": "icons/game/feats/fastrecovery.webp",
+   "source": "https://forhonorinfohub.com/feats/FastRecovery.png"
+  },
+  "DraconiteMist": {
+   "file": "icons/game/feats/draconitemist.webp",
+   "source": "https://forhonorinfohub.com/feats/DraconiteMist.png"
+  },
+  "WinnersAdvantage": {
+   "file": "icons/game/feats/winnersadvantage.webp",
+   "source": "https://forhonorinfohub.com/feats/WinnersAdvantage.png"
+  },
+  "DraconiteBolt": {
+   "file": "icons/game/feats/draconitebolt.webp",
+   "source": "https://forhonorinfohub.com/feats/DraconiteBolt.png"
+  },
+  "Fury": {
+   "file": "icons/game/feats/fury.webp",
+   "source": "https://forhonorinfohub.com/feats/Fury.png"
+  },
+  "DraconiteCleanser": {
+   "file": "icons/game/feats/draconitecleanser.webp",
+   "source": "https://forhonorinfohub.com/feats/DraconiteCleanser.png"
+  },
+  "ChampionsAura": {
+   "file": "icons/game/feats/championsaura.webp",
+   "source": "https://forhonorinfohub.com/feats/ChampionsAura.png"
+  },
+  "Tireless": {
+   "file": "icons/game/feats/tireless.webp",
+   "source": "https://forhonorinfohub.com/feats/Tireless.png"
+  },
+  "MarkedForDeath": {
+   "file": "icons/game/feats/markedfordeath.webp",
+   "source": "https://forhonorinfohub.com/feats/MarkedForDeath.png"
+  },
+  "BearTrap": {
+   "file": "icons/game/feats/beartrap.webp",
+   "source": "https://forhonorinfohub.com/feats/BearTrap.png"
+  },
+  "Battlecry": {
+   "file": "icons/game/feats/battlecry.webp",
+   "source": "https://forhonorinfohub.com/feats/Battlecry.png"
+  },
+  "FireFlask": {
+   "file": "icons/game/feats/fireflask.webp",
+   "source": "https://forhonorinfohub.com/feats/FireFlask.png"
+  },
+  "Slippery": {
+   "file": "icons/game/feats/slippery.webp",
+   "source": "https://forhonorinfohub.com/feats/Slippery.png"
+  },
+  "StormingTrap": {
+   "file": "icons/game/feats/stormingtrap.webp",
+   "source": "https://forhonorinfohub.com/feats/StormingTrap.png"
+  },
+  "ThrowingAxe": {
+   "file": "icons/game/feats/throwingaxe.webp",
+   "source": "https://forhonorinfohub.com/feats/ThrowingAxe.png"
+  },
+  "Berzerker": {
+   "file": "icons/game/feats/berzerker.webp",
+   "source": "https://forhonorinfohub.com/feats/Berzerker.png"
+  },
+  "Bloodlust": {
+   "file": "icons/game/feats/bloodlust.webp",
+   "source": "https://forhonorinfohub.com/feats/Bloodlust.png"
+  },
+  "Javelin": {
+   "file": "icons/game/feats/javelin.webp",
+   "source": "https://forhonorinfohub.com/feats/Javelin.png"
+  },
+  "Scout": {
+   "file": "icons/game/feats/scout.webp",
+   "source": "https://forhonorinfohub.com/feats/Scout.png"
+  },
+  "Longbow": {
+   "file": "icons/game/feats/longbow.webp",
+   "source": "https://forhonorinfohub.com/feats/Longbow.png"
+  },
+  "SpearStorm": {
+   "file": "icons/game/feats/spearstorm.webp",
+   "source": "https://forhonorinfohub.com/feats/SpearStorm.png"
+  },
+  "HandAxe": {
+   "file": "icons/game/feats/handaxe.webp",
+   "source": "https://forhonorinfohub.com/feats/HandAxe.png"
+  },
+  "NailBomb": {
+   "file": "icons/game/feats/nailbomb.webp",
+   "source": "https://forhonorinfohub.com/feats/NailBomb.png"
+  },
+  "JotunnSalve": {
+   "file": "icons/game/feats/jotunnsalve.webp",
+   "source": "https://forhonorinfohub.com/feats/JotunnSalve.png"
+  },
+  "HamarrsFavor": {
+   "file": "icons/game/feats/hamarrsfavor.webp",
+   "source": "https://forhonorinfohub.com/feats/HamarrsFavor.png"
+  },
+  "CenturionsMarch": {
+   "file": "icons/game/feats/centurionsmarch.webp",
+   "source": "https://forhonorinfohub.com/feats/CenturionsMarch.png"
+  },
+  "ZealotsBolt": {
+   "file": "icons/game/feats/zealotsbolt.webp",
+   "source": "https://forhonorinfohub.com/feats/ZealotsBolt.png"
+  },
+  "HardtoKill": {
+   "file": "icons/game/feats/hardtokill.webp",
+   "source": "https://forhonorinfohub.com/feats/HardtoKill.png"
+  },
+  "TwilightoftheGods": {
+   "file": "icons/game/feats/twilightofthegods.webp",
+   "source": "https://forhonorinfohub.com/feats/TwilightoftheGods.png"
+  },
+  "ChillingStare": {
+   "file": "icons/game/feats/chillingstare.webp",
+   "source": "https://forhonorinfohub.com/feats/ChillingStare.png"
+  },
+  "SmokeBomb": {
+   "file": "icons/game/feats/smokebomb.webp",
+   "source": "https://forhonorinfohub.com/feats/SmokeBomb.png"
+  },
+  "Steadfast": {
+   "file": "icons/game/feats/steadfast.webp",
+   "source": "https://forhonorinfohub.com/feats/Steadfast.png"
+  },
+  "Unblockable": {
+   "file": "icons/game/feats/unblockable.webp",
+   "source": "https://forhonorinfohub.com/feats/Unblockable.png"
+  },
+  "ThrowFarther": {
+   "file": "icons/game/feats/throwfarther.webp",
+   "source": "https://forhonorinfohub.com/feats/ThrowFarther.png"
+  },
+  "ShortTempered": {
+   "file": "icons/game/feats/shorttempered.webp",
+   "source": "https://forhonorinfohub.com/feats/ShortTempered.png"
+  },
+  "StaggeringBlows": {
+   "file": "icons/game/feats/staggeringblows.webp",
+   "source": "https://forhonorinfohub.com/feats/StaggeringBlows.png"
+  },
+  "Kiai": {
+   "file": "icons/game/feats/kiai.webp",
+   "source": "https://forhonorinfohub.com/feats/Kiai.png"
+  },
+  "Kunai": {
+   "file": "icons/game/feats/kunai.webp",
+   "source": "https://forhonorinfohub.com/feats/Kunai.png"
+  },
+  "SlipThrough": {
+   "file": "icons/game/feats/slipthrough.webp",
+   "source": "https://forhonorinfohub.com/feats/SlipThrough.png"
+  },
+  "FireTrap": {
+   "file": "icons/game/feats/firetrap.webp",
+   "source": "https://forhonorinfohub.com/feats/FireTrap.png"
+  },
+  "ShootingStars": {
+   "file": "icons/game/feats/shootingstars.webp",
+   "source": "https://forhonorinfohub.com/feats/ShootingStars.png"
+  },
+  "Nukekubi": {
+   "file": "icons/game/feats/nukekubi.webp",
+   "source": "https://forhonorinfohub.com/feats/Nukekubi.png"
+  },
+  "YamaUba": {
+   "file": "icons/game/feats/yamauba.webp",
+   "source": "https://forhonorinfohub.com/feats/YamaUba.png"
+  },
+  "FlamingArrow": {
+   "file": "icons/game/feats/flamingarrow.webp",
+   "source": "https://forhonorinfohub.com/feats/FlamingArrow.png"
+  },
+  "Deliverance": {
+   "file": "icons/game/feats/deliverance.webp",
+   "source": "https://forhonorinfohub.com/feats/Deliverance.png"
+  },
+  "TaintedGift": {
+   "file": "icons/game/feats/taintedgift.webp",
+   "source": "https://forhonorinfohub.com/feats/TaintedGift.png"
+  },
+  "SpiritShroud": {
+   "file": "icons/game/feats/spiritshroud.webp",
+   "source": "https://forhonorinfohub.com/feats/SpiritShroud.png"
+  },
+  "Senbonzakura": {
+   "file": "icons/game/feats/senbonzakura.webp",
+   "source": "https://forhonorinfohub.com/feats/Senbonzakura.png"
+  },
+  "Kagerou": {
+   "file": "icons/game/feats/kagerou.webp",
+   "source": "https://forhonorinfohub.com/feats/Kagerou.png"
+  },
+  "Hikarimore": {
+   "file": "icons/game/feats/hikarimore.webp",
+   "source": "https://forhonorinfohub.com/feats/Hikarimore.png"
+  },
+  "HikariToKage": {
+   "file": "icons/game/feats/hikaritokage.webp",
+   "source": "https://forhonorinfohub.com/feats/HikariToKage.png"
+  },
+  "MugenHouyou": {
+   "file": "icons/game/feats/mugenhouyou.webp",
+   "source": "https://forhonorinfohub.com/feats/MugenHouyou.png"
+  },
+  "RallyCall": {
+   "file": "icons/game/feats/rallycall.webp",
+   "source": "https://forhonorinfohub.com/feats/RallyCall.png"
+  },
+  "Sacrifice": {
+   "file": "icons/game/feats/sacrifice.webp",
+   "source": "https://forhonorinfohub.com/feats/Sacrifice.png"
+  },
+  "VitalLeech": {
+   "file": "icons/game/feats/vitalleech.webp",
+   "source": "https://forhonorinfohub.com/feats/VitalLeech.png"
+  },
+  "Indomitable": {
+   "file": "icons/game/feats/indomitable.webp",
+   "source": "https://forhonorinfohub.com/feats/Indomitable.png"
+  },
+  "AgainstAllOdds": {
+   "file": "icons/game/feats/againstallodds.webp",
+   "source": "https://forhonorinfohub.com/feats/AgainstAllOdds.png"
+  },
+  "Benefaction": {
+   "file": "icons/game/feats/benefaction.webp",
+   "source": "https://forhonorinfohub.com/feats/Benefaction.png"
+  },
+  "SoothingMist": {
+   "file": "icons/game/feats/soothingmist.webp",
+   "source": "https://forhonorinfohub.com/feats/SoothingMist.png"
+  },
+  "FieryBarrage": {
+   "file": "icons/game/feats/fierybarrage.webp",
+   "source": "https://forhonorinfohub.com/feats/FieryBarrage.png"
+  },
+  "Phalanx": {
+   "file": "icons/game/feats/phalanx.webp",
+   "source": "https://forhonorinfohub.com/feats/Phalanx.png"
+  },
+  "DeadlyDuet": {
+   "file": "icons/game/feats/deadlyduet.webp",
+   "source": "https://forhonorinfohub.com/feats/DeadlyDuet.png"
+  },
+  "Caltrops": {
+   "file": "icons/game/feats/caltrops.webp",
+   "source": "https://forhonorinfohub.com/feats/Caltrops.png"
+  },
+  "ThreadofFate": {
+   "file": "icons/game/feats/threadoffate.webp",
+   "source": "https://forhonorinfohub.com/feats/ThreadofFate.png"
+  },
+  "Takedown": {
+   "file": "icons/game/feats/takedown.webp",
+   "source": "https://forhonorinfohub.com/feats/Takedown.png"
+  },
+  "Infection": {
+   "file": "icons/game/feats/infection.webp",
+   "source": "https://forhonorinfohub.com/feats/Infection.png"
+  },
+  "QiTrap": {
+   "file": "icons/game/feats/qitrap.webp",
+   "source": "https://forhonorinfohub.com/feats/QiTrap.png"
+  },
+  "Blink": {
+   "file": "icons/game/feats/blink.webp",
+   "source": "https://forhonorinfohub.com/feats/Blink.png"
+  },
+  "ThickSkin": {
+   "file": "icons/game/feats/thickskin.webp",
+   "source": "https://forhonorinfohub.com/feats/ThickSkin.png"
+  },
+  "Invigorate": {
+   "file": "icons/game/feats/invigorate.webp",
+   "source": "https://forhonorinfohub.com/feats/Invigorate.png"
+  },
+  "BlessedProjection": {
+   "file": "icons/game/feats/blessedprojection.webp",
+   "source": "https://forhonorinfohub.com/feats/BlessedProjection.png"
+  },
+  "FieryTusk": {
+   "file": "icons/game/feats/fierytusk.webp",
+   "source": "https://forhonorinfohub.com/feats/FieryTusk.png"
+  },
+  "QilinRuse": {
+   "file": "icons/game/feats/qilinruse.webp",
+   "source": "https://forhonorinfohub.com/feats/QilinRuse.png"
+  },
+  "FieryBreath": {
+   "file": "icons/game/feats/fierybreath.webp",
+   "source": "https://forhonorinfohub.com/feats/FieryBreath.png"
+  },
+  "ScorchingDeluge": {
+   "file": "icons/game/feats/scorchingdeluge.webp",
+   "source": "https://forhonorinfohub.com/feats/ScorchingDeluge.png"
+  },
+  "ArmorPiercingSlug": {
+   "file": "icons/game/feats/armorpiercingslug.webp",
+   "source": "https://forhonorinfohub.com/feats/ArmorPiercingSlug.png"
+  },
+  "PocketBomb": {
+   "file": "icons/game/feats/pocketbomb.webp",
+   "source": "https://forhonorinfohub.com/feats/PocketBomb.png"
+  },
+  "TrickShot": {
+   "file": "icons/game/feats/trickshot.webp",
+   "source": "https://forhonorinfohub.com/feats/TrickShot.png"
+  },
+  "GunpowderSurprise": {
+   "file": "icons/game/feats/gunpowdersurprise.webp",
+   "source": "https://forhonorinfohub.com/feats/GunpowderSurprise.png"
+  },
+  "SunshineStrength": {
+   "file": "icons/game/feats/sunshinestrength.webp",
+   "source": "https://forhonorinfohub.com/feats/SunshineStrength.png"
+  },
+  "MoonlightDrain": {
+   "file": "icons/game/feats/moonlightdrain.webp",
+   "source": "https://forhonorinfohub.com/feats/MoonlightDrain.png"
+  },
+  "ScarabRelief": {
+   "file": "icons/game/feats/scarabrelief.webp",
+   "source": "https://forhonorinfohub.com/feats/ScarabRelief.png"
+  },
+  "AstralManifestation": {
+   "file": "icons/game/feats/astralmanifestation.webp",
+   "source": "https://forhonorinfohub.com/feats/AstralManifestation.png"
+  },
+  "GravitysPull": {
+   "file": "icons/game/feats/gravityspull.webp",
+   "source": "https://forhonorinfohub.com/feats/GravitysPull.png"
+  },
+  "FortunesFavor": {
+   "file": "icons/game/feats/fortunesfavor.webp",
+   "source": "https://forhonorinfohub.com/feats/FortunesFavor.png"
+  },
+  "SpeedingComet": {
+   "file": "icons/game/feats/speedingcomet.webp",
+   "source": "https://forhonorinfohub.com/feats/SpeedingComet.png"
+  },
+  "OrbitingShield": {
+   "file": "icons/game/feats/orbitingshield.webp",
+   "source": "https://forhonorinfohub.com/feats/OrbitingShield.png"
+  },
+  "HuntsmansSpirit": {
+   "file": "icons/game/feats/huntsmansspirit.webp",
+   "source": "https://forhonorinfohub.com/feats/HuntsmansSpirit.png"
+  },
+  "VengefulMark": {
+   "file": "icons/game/feats/vengefulmark.webp",
+   "source": "https://forhonorinfohub.com/feats/VengefulMark.png"
+  },
+  "QuetzacoatlsBlessing": {
+   "file": "icons/game/feats/quetzacoatlsblessing.webp",
+   "source": "https://forhonorinfohub.com/feats/QuetzacoatlsBlessing.png"
+  },
+  "TrappersReach": {
+   "file": "icons/game/feats/trappersreach.webp",
+   "source": "https://forhonorinfohub.com/feats/TrappersReach.png"
+  },
+  "TakeShelter": {
+   "file": "icons/game/feats/takeshelter.webp",
+   "source": "https://forhonorinfohub.com/feats/TakeShelter.png"
+  },
+  "MisthiaWard": {
+   "file": "icons/game/feats/misthiaward.webp",
+   "source": "https://forhonorinfohub.com/feats/MisthiaWard.png"
+  },
+  "AesirAura": {
+   "file": "icons/game/feats/aesiraura.webp",
+   "source": "https://forhonorinfohub.com/feats/AesirAura.png"
+  },
+  "ReclaimTheLand": {
+   "file": "icons/game/feats/reclaimtheland.webp",
+   "source": "https://forhonorinfohub.com/feats/ReclaimTheLand.png"
+  },
+  "EyeOfTheDemon": {
+   "file": "icons/game/feats/eyeofthedemon.webp",
+   "source": "https://forhonorinfohub.com/feats/EyeOfTheDemon.png"
+  },
+  "SoulSoother": {
+   "file": "icons/game/feats/soulsoother.webp",
+   "source": "https://forhonorinfohub.com/feats/SoulSoother.png"
+  },
+  "AncillaryMight": {
+   "file": "icons/game/feats/ancillarymight.webp",
+   "source": "https://forhonorinfohub.com/feats/AncillaryMight.png"
+  },
+  "SoulWaker": {
+   "file": "icons/game/feats/soulwaker.webp",
+   "source": "https://forhonorinfohub.com/feats/SoulWaker.png"
+  },
+  "Relentless": {
+   "file": "icons/game/feats/relentless.webp",
+   "source": "https://forhonorinfohub.com/feats/Relentless.png"
+  },
+  "Brutal": {
+   "file": "icons/game/feats/brutal.webp",
+   "source": "https://forhonorinfohub.com/feats/Brutal.png"
+  },
+  "Intimidating": {
+   "file": "icons/game/feats/intimidating.webp",
+   "source": "https://forhonorinfohub.com/feats/Intimidating.png"
+  },
+  "UltimatePunishment": {
+   "file": "icons/game/feats/ultimatepunishment.webp",
+   "source": "https://forhonorinfohub.com/feats/UltimatePunishment.png"
+  },
+  "MuscleMemory": {
+   "file": "icons/game/feats/musclememory.webp",
+   "source": "https://forhonorinfohub.com/feats/MuscleMemory.png"
+  },
+  "ArtfulImprovisation": {
+   "file": "icons/game/feats/artfulimprovisation.webp",
+   "source": "https://forhonorinfohub.com/feats/ArtfulImprovisation.png"
+  },
+  "SuperiorRetort": {
+   "file": "icons/game/feats/superiorretort.webp",
+   "source": "https://forhonorinfohub.com/feats/SuperiorRetort.png"
+  },
+  "RejuvenatingSpirit": {
+   "file": "icons/game/feats/rejuvenatingspirit.webp",
+   "source": "https://forhonorinfohub.com/feats/RejuvenatingSpirit.png"
+  },
+  "Expendables": {
+   "file": "icons/game/feats/expendables.webp",
+   "source": "https://forhonorinfohub.com/feats/Expendables.png"
+  },
+  "NoFriendOfMine": {
+   "file": "icons/game/feats/nofriendofmine.webp",
+   "source": "https://forhonorinfohub.com/feats/NoFriendOfMine.png"
+  },
+  "LastManStanding": {
+   "file": "icons/game/feats/lastmanstanding.webp",
+   "source": "https://forhonorinfohub.com/feats/LastManStanding.png"
+  },
+  "GodAmongMen": {
+   "file": "icons/game/feats/godamongmen.webp",
+   "source": "https://forhonorinfohub.com/feats/GodAmongMen.png"
+  },
+  "AgainstTheWorld": {
+   "file": "icons/game/feats/againsttheworld.webp",
+   "source": "https://forhonorinfohub.com/feats/AgainstTheWorld.png"
+  },
+  "InsolentShout": {
+   "file": "icons/game/feats/insolentshout.webp",
+   "source": "https://forhonorinfohub.com/feats/InsolentShout.png"
+  },
+  "WalkItOff": {
+   "file": "icons/game/feats/walkitoff.webp",
+   "source": "https://forhonorinfohub.com/feats/WalkItOff.png"
+  },
+  "GangOfOutcasts": {
+   "file": "icons/game/feats/gangofoutcasts.webp",
+   "source": "https://forhonorinfohub.com/feats/GangOfOutcasts.png"
+  }
+ },
+ "heroes": {
+  "Warden": {
+   "file": "icons/game/heroes/warden.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1RCRVBFQyi4UnDsFZnki25/6be09ec53f3e4593f3ea5b8ecd5c2c88/FH_Knight_Warden_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 229,
+    "top": -4,
+    "width": 250,
+    "height": 313,
+    "manual": true,
+    "adjust": [
+     0,
+     -0.025,
+     1
+    ]
+   }
+  },
+  "Conqueror": {
+   "file": "icons/game/heroes/conqueror.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7u5dhSfvZ9MH8Bo4vC0oIf/f3aec74779266836c9c7c690df4bc1df/FH_Knight_Conqeror_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 290,
+    "top": -19,
+    "width": 254,
+    "height": 318,
+    "manual": false,
+    "adjust": [
+     0,
+     -0.05,
+     1
+    ]
+   }
+  },
+  "Peacekeeper": {
+   "file": "icons/game/heroes/peacekeeper.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2hjO9nb9I0VqZngd7b1Ri7/02ec15b0ab966631cd494058511b8ad6/FH_Knight_Peacekeeper_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 312,
+    "top": 28,
+    "width": 174,
+    "height": 218,
+    "manual": false,
+    "adjust": [
+     0,
+     0.025,
+     1
+    ]
+   }
+  },
+  "Lawbringer": {
+   "file": "icons/game/heroes/lawbringer.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7M9p5kF7e1Ofm4zjUX7HU1/f3b6f9ee1875849282cf628d5c51816c/FH_Knight_Lawbringer_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 324,
+    "top": 155,
+    "width": 180,
+    "height": 225,
+    "manual": true,
+    "adjust": [
+     -0.08,
+     0.247,
+     0.9
+    ]
+   }
+  },
+  "Centurion": {
+   "file": "icons/game/heroes/centurion.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3mUcmOFOSOZmkMZkgGPwsH/012c89a7e15a853f33ee228d4dfb73ab/FH_Knight_Centurion_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 235,
+    "top": -11,
+    "width": 260,
+    "height": 325,
+    "manual": false,
+    "adjust": [
+     0,
+     0.037,
+     1
+    ]
+   }
+  },
+  "Gladiator": {
+   "file": "icons/game/heroes/gladiator.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1FiHlCGrdQ4fSVTSwjJ4YT/41335407f7d94551c721a81589927fd1/FH_Knight_Gladiator_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 322,
+    "top": 4,
+    "width": 194,
+    "height": 243,
+    "manual": false,
+    "adjust": [
+     0,
+     0.037,
+     1
+    ]
+   }
+  },
+  "Black Prior": {
+   "file": "icons/game/heroes/black-prior.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/76IxwZroBPjhd5agwanjXO/363f1bb39d14bb909effb07ed36f0dfb/FH_Knight_BlackPrior-F_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 196,
+    "top": -24,
+    "width": 264,
+    "height": 330,
+    "manual": false,
+    "adjust": [
+     0,
+     -0.01,
+     1
+    ]
+   }
+  },
+  "Warmonger": {
+   "file": "icons/game/heroes/warmonger.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5VctNb0ePwf8TUl5Ouxpzj/5e92062eab53d56fe65df01adbc3892c/FH_Knight_Warmonger_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 425,
+    "top": -10,
+    "width": 240,
+    "height": 300,
+    "manual": true,
+    "adjust": [
+     0,
+     0.037,
+     1
+    ]
+   }
+  },
+  "Gryphon": {
+   "file": "icons/game/heroes/gryphon.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4QuruAWrbCfMf3FjxB2kik/eee785b7d05608bde8b4405a8ce4e13f/FH_Knight_Gryphon_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 249,
+    "top": 52,
+    "width": 170,
+    "height": 213,
+    "manual": true,
+    "adjust": [
+     0,
+     0.13,
+     0.85
+    ]
+   }
+  },
+  "Raider": {
+   "file": "icons/game/heroes/raider.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4pi8EsqBjxH1FXFzzjq0uH/da6544cf1f009bd1b47daccf553beb7b/FH_Viking_Raider_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 311,
+    "top": -3,
+    "width": 244,
+    "height": 305,
+    "manual": false,
+    "adjust": null
+   }
+  },
+  "Warlord": {
+   "file": "icons/game/heroes/warlord.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/sJZLbuUduKHtJFCCBqoea/1fbc7c595e7848c56da982ef62503fa7/FH_Viking_Warlord_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 244,
+    "top": 3,
+    "width": 237,
+    "height": 296,
+    "manual": false,
+    "adjust": null
+   }
+  },
+  "Berserker": {
+   "file": "icons/game/heroes/berserker.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Vd7mkMcqcArN9VqWJ5zzW/ed90b41731986793914d35278cfe9410/FH_Viking_Berserker_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 235,
+    "top": 29,
+    "width": 243,
+    "height": 304,
+    "manual": false,
+    "adjust": [
+     -0.08,
+     0.073,
+     1
+    ]
+   }
+  },
+  "Valkyrie": {
+   "file": "icons/game/heroes/valkyrie.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2KvZkIZ4R0w02Y3NcEYKxD/ba05a30aec69f701efb5b76ee91446fe/FH_Viking_Valkyrie_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 267,
+    "top": 22,
+    "width": 236,
+    "height": 295,
+    "manual": false,
+    "adjust": [
+     0,
+     0.037,
+     1
+    ]
+   }
+  },
+  "Highlander": {
+   "file": "icons/game/heroes/highlander.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/53CoLeBZRjGrBBoymNvfVR/3df45a6761dffd70baea9e87a275961f/FH_Viking_Highlander_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 270,
+    "top": 49,
+    "width": 232,
+    "height": 290,
+    "manual": false,
+    "adjust": null
+   }
+  },
+  "Shaman": {
+   "file": "icons/game/heroes/shaman.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4D9YcMj7fHICzTTTFFL5ZN/bfd91a8c0fea1cda7ef27f2e234c07ed/FH_Viking_Shaman_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 259,
+    "top": 65,
+    "width": 217,
+    "height": 271,
+    "manual": false,
+    "adjust": [
+     0,
+     0.037,
+     1
+    ]
+   }
+  },
+  "Jormungandr": {
+   "file": "icons/game/heroes/jormungandr.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6UOntXPyW8aJFTvRYLTyN1/39de69a450f73fb29e5cb69b3bc1a7b5/FH_Viking_Jormungandr-F_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 251,
+    "top": 39,
+    "width": 246,
+    "height": 308,
+    "manual": false,
+    "adjust": [
+     0,
+     0.075,
+     1
+    ]
+   }
+  },
+  "Kensei": {
+   "file": "icons/game/heroes/kensei.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7aFKMeUIPN3MXya9MqkQeL/8b961fcbc3d24207312baecf91a49fe2/FH_Samurai_Kensei_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 283,
+    "top": 6,
+    "width": 223,
+    "height": 279,
+    "manual": false,
+    "adjust": [
+     0,
+     0.025,
+     1
+    ]
+   }
+  },
+  "Shugoki": {
+   "file": "icons/game/heroes/shugoki.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/JLsYy1KEAl0GLcFWBwhBx/95dee0004f9d1abdb41068c950428be4/FH_Samurai_Shugoki_2021_copy.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 248,
+    "top": 36,
+    "width": 227,
+    "height": 284,
+    "manual": false,
+    "adjust": null
+   }
+  },
+  "Orochi": {
+   "file": "icons/game/heroes/orochi.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5wR76o3zr0PH603Q6Emvxw/60679b6fa36850ecf98a325f1289700b/FH_Samurai_Orochi_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 283,
+    "top": -1,
+    "width": 229,
+    "height": 286,
+    "manual": false,
+    "adjust": null
+   }
+  },
+  "Nobushi": {
+   "file": "icons/game/heroes/nobushi.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5wAYR9ausaRVt7F04UDezw/318f51fc16a040cb483718befd69b9e2/FH_Samurai_Nobushi_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 288,
+    "top": 171,
+    "width": 190,
+    "height": 238,
+    "manual": false,
+    "adjust": [
+     0,
+     -0.037,
+     1
+    ]
+   }
+  },
+  "Shinobi": {
+   "file": "icons/game/heroes/shinobi.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7kUkFzEl27B75TsAX1w2Aq/61702f7a0c6d62f5831c71043780a203/FH_Samurai_Shinobi_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 260,
+    "top": 28,
+    "width": 198,
+    "height": 248,
+    "manual": false,
+    "adjust": [
+     0,
+     0.075,
+     1
+    ]
+   }
+  },
+  "Aramusha": {
+   "file": "icons/game/heroes/aramusha.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5rBImX2FvTzafgyWmws2pi/1f5dfb8f11ad81d16571bb8723b3a4c4/FH_Samurai_Aramusha_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 261,
+    "top": -11,
+    "width": 247,
+    "height": 309,
+    "manual": false,
+    "adjust": [
+     0,
+     0.037,
+     1
+    ]
+   }
+  },
+  "Hitokiri": {
+   "file": "icons/game/heroes/hitokiri.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/EZfwpBLkWiEjDf6tvwyS6/5cb9286e3aa34940786ff124c04e19fd/FH_Samurai_Hitokiri-F_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 342,
+    "top": -11,
+    "width": 263,
+    "height": 329,
+    "manual": false,
+    "adjust": [
+     0,
+     0.037,
+     1
+    ]
+   }
+  },
+  "Kyoshin": {
+   "file": "icons/game/heroes/kyoshin.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7Kc0HKee7b8n1Odnsm8WLG/a0c2c73f0638b8dc498d229cffb7d3ad/Hero_Portrait_Kyoshin.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 232,
+    "top": 17,
+    "width": 253,
+    "height": 316,
+    "manual": false,
+    "adjust": [
+     0,
+     0.075,
+     1
+    ]
+   }
+  },
+  "Tiandi": {
+   "file": "icons/game/heroes/tiandi.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4cZn4L4RFxMwvsQB5xVlOI/e36cb9267413507b6a6c15283f44fcc7/FH_WuLin_Tiandi-F_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 268,
+    "top": 33,
+    "width": 251,
+    "height": 314,
+    "manual": false,
+    "adjust": [
+     0,
+     0.138,
+     1
+    ]
+   }
+  },
+  "Jiang Jun": {
+   "file": "icons/game/heroes/jiang-jun.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7gWP5kxUJqGeY7odfjOQU9/16fd9ed29d5b2a120c8bec8af64f0dc8/FH_WuLin_JiangJun_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 307,
+    "top": 69,
+    "width": 238,
+    "height": 298,
+    "manual": false,
+    "adjust": [
+     0,
+     0.117,
+     1
+    ]
+   }
+  },
+  "Nuxia": {
+   "file": "icons/game/heroes/nuxia.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3zJIb1buCYHF3Ftr77OFfJ/530959b88cbb6bfc32c1cc1efeb945c7/FH_WuLin_Nuxia_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 224,
+    "top": 7,
+    "width": 281,
+    "height": 351,
+    "manual": false,
+    "adjust": [
+     0,
+     0.068,
+     1.1
+    ]
+   }
+  },
+  "Shaolin": {
+   "file": "icons/game/heroes/shaolin.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/8gSv7yPjxm1mPsYfJQe5u/baf3438ac1d79894a87903507182c620/FH_WuLin_Shaolin_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 269,
+    "top": 94,
+    "width": 238,
+    "height": 298,
+    "manual": false,
+    "adjust": [
+     0,
+     0.05,
+     1.1
+    ]
+   }
+  },
+  "Zhanhu": {
+   "file": "icons/game/heroes/zhanhu.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5Yorf1jyjLWGLPrbt7dZD5/fb6b773af9716b28a092a3058e80ba40/FH_WuLin_Zhanhu-F_2021.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 163,
+    "top": 14,
+    "width": 345,
+    "height": 431,
+    "manual": true,
+    "adjust": [
+     0,
+     -0.062,
+     1.15
+    ]
+   }
+  },
+  "Pirate": {
+   "file": "icons/game/heroes/pirate.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1vSWdTHqYyaYXmKju0KaZn/56fce8782bcdcb07cf0dd4c4c7efd0fe/Hero_Pirate_750x770.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 292,
+    "top": 46,
+    "width": 211,
+    "height": 264,
+    "manual": false,
+    "adjust": [
+     0,
+     0.025,
+     1
+    ]
+   }
+  },
+  "Medjay": {
+   "file": "icons/game/heroes/medjay.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1e5H8HCKeCtViT9rRfeoL5/4a1b67c434c36a67efaf987bb243f65c/FH_Portrait_Medjay_02_750X770.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 273,
+    "top": 61,
+    "width": 220,
+    "height": 275,
+    "manual": true,
+    "adjust": [
+     -0.17,
+     0.312,
+     1
+    ]
+   }
+  },
+  "Afeera": {
+   "file": "icons/game/heroes/afeera.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/bzQbG1qy1t2datEUYUCpM/16e321fce50ed6f6a2e6eb6569209006/Hero_Portraits_Afeera.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 261,
+    "top": 54,
+    "width": 208,
+    "height": 260,
+    "manual": false,
+    "adjust": [
+     0,
+     0.025,
+     1
+    ]
+   }
+  },
+  "Ocelotl": {
+   "file": "icons/game/heroes/ocelotl.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ZHupEIH7upYxiUDFnHcwD/76b2a98181841b758ddff106029e898f/FH_Portrait_NewHero_Ocelotl_750x770.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 263,
+    "top": 32,
+    "width": 216,
+    "height": 270,
+    "manual": false,
+    "adjust": [
+     0,
+     0.037,
+     1
+    ]
+   }
+  },
+  "Varangian Guard": {
+   "file": "icons/game/heroes/varangian-guard.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/iYEsaf2EHYJpSsrw6tVUC/868c5635210a9fed66133c91e4a50840/FH_Viking_Varangian_Guard.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 320,
+    "top": 48,
+    "width": 156,
+    "height": 195,
+    "manual": false,
+    "adjust": [
+     0,
+     -0.112,
+     1
+    ]
+   }
+  },
+  "Sohei": {
+   "file": "icons/game/heroes/sohei.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1We8t0kVgH0Y98g4gCdyQa/5bcdfdec42aea991ede6673337fe1bdd/fh-heroes-character_portrait-sohei.jpg",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 371,
+    "top": 5,
+    "width": 255,
+    "height": 319,
+    "manual": false,
+    "adjust": [
+     0,
+     0.098,
+     1
+    ]
+   }
+  },
+  "Khatun": {
+   "file": "icons/game/heroes/khatun.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4CvNiZHwUAaGaSBiwSLw9S/ed6ffb2a64f06ec739c4dbfd8bdcc786/FHY8S4_Hero_Khatun_Full_Length_Portrait.png",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 294,
+    "top": 77,
+    "width": 193,
+    "height": 241,
+    "manual": false,
+    "adjust": [
+     0,
+     -0.163,
+     1
+    ]
+   }
+  },
+  "Virtuosa": {
+   "file": "icons/game/heroes/virtuosa.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5EX9vXzUohR6tisgFyBWu9/f0a8bcf1cc0016d254d615749f1ff120/Hero_Portraits_TVirtuosa.png",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 268,
+    "top": 30,
+    "width": 228,
+    "height": 285,
+    "manual": false,
+    "adjust": null
+   }
+  },
+  "Juren": {
+   "file": "icons/game/heroes/juren.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6UiEVkcpFc84ahN9v0onH6/d1b03a4596731c9492c1e75455d6e0ad/FHY9S4_Juren_Hero_Portrait_TU2_V2.png",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 322,
+    "top": 99,
+    "width": 196,
+    "height": 245,
+    "manual": true,
+    "adjust": [
+     0,
+     0.1,
+     1
+    ]
+   }
+  },
+  "Arakure": {
+   "file": "icons/game/heroes/arakure.webp",
+   "source": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/23INvVtyn02rqAyXmFzuAj/4dab1cff6f20cf48f555af673980524e/FHY10S2_Arakure_Hero.png",
+   "sourcePage": "https://www.ubisoft.com/en-us/game/for-honor/heroes",
+   "crop": {
+    "left": 298,
+    "top": 94,
+    "width": 181,
+    "height": 226,
+    "manual": false,
+    "adjust": [
+     0,
+     -0.105,
+     1
+    ]
+   }
+  }
+ },
+ "missing": {
+  "perks": [],
+  "feats": [],
+  "heroes": []
+ }
+}
