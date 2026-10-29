@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "fetch-data": "node scripts/fetch-data.mjs",
+    "fetch-patches": "node scripts/fetch-patches.mjs",
     "dev": "vite",
     "build": "tsc --noEmit -p . && vite build && node scripts/build-sw.mjs",
     "preview": "vite preview --port 8070 --host 127.0.0.1",
