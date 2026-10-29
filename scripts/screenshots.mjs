@@ -79,6 +79,21 @@ await shot('06-hero-feats');
 await go('#/rules');
 await shot('07-rules');
 
+await go('#/patches');
+await shot('09-patch-notes');
+await page.evaluate(() => {
+  const el = [...document.querySelectorAll('.pn-h3')].find((n) => /jiang jun/i.test(n.textContent || ''));
+  el?.scrollIntoView({ block: 'start' });
+});
+await new Promise((r) => setTimeout(r, 200));
+await shot('09b-patch-notes-hero');
+await page.evaluate(() => document.querySelector('.patch-earlier')?.scrollIntoView({ block: 'start' }));
+await new Promise((r) => setTimeout(r, 200));
+await shot('09c-patch-notes-earlier');
+await page.click('.patch-older summary');
+await new Promise((r) => setTimeout(r, 300));
+await shot('09d-patch-notes-expanded');
+
 // Offline: service worker should serve the app with the network off
 await go('#/');
 await page.evaluate(async () => { await navigator.serviceWorker.ready; });
@@ -90,10 +105,14 @@ await page.goto(BASE + '#/hero/15/build?p=ABF', { waitUntil: 'domcontentloaded' 
 await new Promise((r) => setTimeout(r, 800));
 const offlineOk = await page.evaluate(() => !!document.querySelector('.verdict-ok, .verdict-bad'));
 await shot('08-offline-builder');
+await page.goto(BASE + '#/patches', { waitUntil: 'domcontentloaded' });
+await new Promise((r) => setTimeout(r, 500));
+const offlineNotes = await page.evaluate(() => !!document.querySelector('.patch-latest .pn-title'));
+await shot('10-offline-patch-notes');
 await page.setOfflineMode(false);
 errors.splice(errCountBefore); // offline mode request failures are expected noise
 
 // Manifest check
 const manifest = await (await fetch(BASE + 'manifest.webmanifest')).json();
-console.log(JSON.stringify({ swControlling: swCtl, offlineOk, manifestIcons: manifest.icons.length, consoleErrors: errors, overflow }, null, 1));
+console.log(JSON.stringify({ swControlling: swCtl, offlineOk, offlineNotes, manifestIcons: manifest.icons.length, consoleErrors: errors, overflow }, null, 1));
 await browser.close();

@@ -222,7 +222,7 @@ section + section .section { margin-top: 14px; }
 .credits { margin: 28px 2px 8px; color: var(--dim); font-size: 11.5px; text-align: center; }
 .credits p { margin: 4px 0; }
 .credits strong { color: var(--muted); }
-.tabbar { position: fixed; left: 0; right: 0; bottom: 0; display: grid; grid-template-columns: repeat(3, 1fr); padding: 6px 12px calc(6px + var(--safe-b));
+.tabbar { position: fixed; left: 0; right: 0; bottom: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); padding: 6px 6px calc(6px + var(--safe-b));
   background: rgba(14, 12, 16, .82); backdrop-filter: saturate(160%) blur(18px); -webkit-backdrop-filter: saturate(160%) blur(18px); border-top: 1px solid var(--line); z-index: 20; max-width: 720px; margin: 0 auto; }
 .tabbar a { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 6px; color: var(--dim); font-size: 11px; font-weight: 600; }
 .tabbar a.on { color: var(--gold); }
@@ -509,3 +509,38 @@ body { background: radial-gradient(900px 380px at 50% -180px, rgba(158, 17, 24, 
 /* Hide page scroll bars for a native-app feel (scrolling still works) */
 html, body { scrollbar-width: none; -ms-overflow-style: none; }
 html::-webkit-scrollbar, body::-webkit-scrollbar, *::-webkit-scrollbar { display: none; width: 0; height: 0; background: transparent; }
+
+/* Patch notes tab — four tabs, scroll icon, plate cards for the latest note */
+.tabbar a { font-size: 9px; letter-spacing: .045em; line-height: 1.15; padding: 5px 1px 6px; }
+.tabbar a span { display: block; max-width: 100%; text-align: center; white-space: nowrap; }
+.patch-notes .card { margin-bottom: 12px; }
+.pn-kicker { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.pn-version { font-family: var(--display); letter-spacing: .14em; text-transform: uppercase; color: var(--blood2); font-size: 12px; font-weight: 700; }
+.pn-date { font-family: var(--fell); color: var(--muted); font-size: 15px; }
+.pn-title { font-family: var(--display); font-size: 20px; letter-spacing: .05em; text-transform: uppercase; line-height: 1.2; color: var(--text); margin: 6px 0 4px; }
+.pn-abstract { color: var(--muted); font-size: 13px; margin: 0 0 4px; }
+.pn-source { display: inline-flex; margin: 2px 0 12px; }
+.pn-h { scroll-margin-top: 12px; }
+.pn-h1 { font-family: var(--display); color: var(--gold); letter-spacing: .12em; text-transform: uppercase; font-size: 15px; font-weight: 700; margin: 16px 0 8px; }
+.pn-h2 { font-family: var(--display); color: var(--gold2); letter-spacing: .08em; text-transform: uppercase; font-size: 13px; font-weight: 700; margin: 14px 0 6px; }
+.pn-h3 { font-family: var(--display); color: var(--text); letter-spacing: .04em; font-size: 15px; font-weight: 700; margin: 12px 0 6px; padding-left: 8px; border-left: 2px solid var(--blood2); }
+.pn p { margin: 0 0 8px; color: #d9d0bd; font-size: 14.5px; line-height: 1.45; }
+.pn strong { color: var(--text); }
+.pn-list { margin: 0 0 10px; padding: 0; list-style: none; }
+.pn-list li { position: relative; margin: 5px 0; padding-left: 14px; color: #d9d0bd; font-size: 14.5px; line-height: 1.4; }
+.pn-list li::before { content: ''; position: absolute; left: 0; top: .55em; width: 5px; height: 5px; background: var(--blood2); transform: rotate(45deg); }
+.pn-list li.d1 { margin-left: 16px; }
+.pn-list li.d2 { margin-left: 32px; }
+.pn-list li.d3 { margin-left: 48px; }
+.pn-list li.d1::before, .pn-list li.d2::before, .pn-list li.d3::before { background: var(--gold); width: 4px; height: 4px; }
+.pn-callout { margin: 8px 0 12px; padding: 10px 12px; background: #14120f; border: 1px solid var(--line); border-left: 2px solid var(--gold); }
+.pn-callout-label { font-family: var(--fell); color: var(--gold); font-size: 15px; margin-bottom: 4px; }
+.pn-callout p { font-size: 13.5px; color: var(--muted); }
+.patch-older { padding: 0; }
+.patch-older > summary { color: var(--text); font-family: var(--display); font-size: 14px; font-weight: 700; letter-spacing: .03em; padding: 12px 14px; display: flex; gap: 8px; align-items: flex-start; }
+.patch-older > summary::before { color: var(--gold); font-family: var(--fell); flex: none; margin-top: 1px; }
+.patch-older .pn { padding: 0 14px 14px; }
+.pn-sum { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.pn-sum b { font-family: var(--display); font-weight: 700; letter-spacing: .04em; color: var(--text); font-size: 14px; }
+.pn-sum span { color: var(--muted); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 400; letter-spacing: 0; line-height: 1.35; }
+.patch-notes .empty .link { display: inline-block; margin-top: 8px; }

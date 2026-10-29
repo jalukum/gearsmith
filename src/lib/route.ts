@@ -5,7 +5,8 @@ export type Route =
   | { name: 'heroes' }
   | { name: 'hero'; id: number; tab: 'build' | 'perks' | 'feats'; positions: Pos[]; tier: TierId }
   | { name: 'saved' }
-  | { name: 'rules' };
+  | { name: 'rules' }
+  | { name: 'patches' };
 
 const LETTERS = 'ABCDEFG';
 export const encodePositions = (p: Pos[]) => [...p].sort().map((x) => LETTERS[x]).join('');
@@ -24,6 +25,7 @@ export function parse(hash: string): Route {
   }
   if (parts[0] === 'saved') return { name: 'saved' };
   if (parts[0] === 'rules') return { name: 'rules' };
+  if (parts[0] === 'patches') return { name: 'patches' };
   return { name: 'heroes' };
 }
 
@@ -32,6 +34,7 @@ export function href(r: Route): string {
     case 'heroes': return '#/';
     case 'saved': return '#/saved';
     case 'rules': return '#/rules';
+    case 'patches': return '#/patches';
     case 'hero': {
       const q = new URLSearchParams();
       if (r.positions.length) q.set('p', encodePositions(r.positions));

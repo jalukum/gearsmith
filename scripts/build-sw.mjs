@@ -29,6 +29,25 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET' || new URL(req.url).origin !== self.location.origin) return;
+  const path = new URL(req.url).pathname;
+  // Patch notes live at a stable URL. Prefer the network so a new deploy shows up
+  // on the next visit, and fall back to the precached copy when offline.
+  if (path.endsWith('/patches.json')) {
+    e.respondWith((async () => {
+      try {
+        const res = await fetch(req);
+        if (res && res.ok) {
+          const cache = await caches.open(CACHE);
+          await cache.put(req, res.clone());
+          return res;
+        }
+      } catch (err) {}
+      const cached = await caches.match(req, { ignoreSearch: true }) || await caches.match('./patches.json');
+      if (cached) return cached;
+      return fetch(req);
+    })());
+    return;
+  }
   if (req.mode === 'navigate') {
     e.respondWith(caches.match('./index.html').then((r) => r || fetch(req)));
     return;
